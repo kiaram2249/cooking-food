@@ -6,7 +6,7 @@
 You took your phone and dial the number of the restaurant.
 
 Select a restaurant that you want to eat from:
-## [Popeyes](no-takeout-tonight.md)
+## [Popeyes](No-takeout-tonight.md)
 ## [Panda express](yay-takeout-tonight.md)
 ---
 [Start Over](../cooking-food.md)
