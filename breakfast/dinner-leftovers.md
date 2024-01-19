@@ -5,4 +5,4 @@ Your stomach started to hurt because of how old the food was but you were able t
 
 [Start Over](../cooking-food.md)
 or
-[Go to Lunch!](lunch.md)
+[Go to Lunch!](../lunch.md)
