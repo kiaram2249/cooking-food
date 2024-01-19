@@ -11,6 +11,6 @@ Select a restaurant that you want to eat from:
 ---
 [Start Over](../cooking-food.md)
 or
-[Go back to dinner](../dinner.md)
+[Go back to dinner](dinner/dinner.md)
 
 
