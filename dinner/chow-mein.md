@@ -4,6 +4,7 @@
 OH NO! You don't have enough money to buy this order. However, your parents is willing to give you money, IF you clean your room first.
 ---
 
+---
 [Start Over](../cooking-food.md)
 or
 [Go back to dinner](dinner.md)
