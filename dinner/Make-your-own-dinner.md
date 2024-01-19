@@ -3,11 +3,11 @@
 ## Making Dinner
 ---
 
-You was looking through 
+You was looking through a cook book and you decided to cook.
 
-Select a restaurant that you want to eat from:
-## [Popeyes](No-takeout-tonight.md)
-## [Panda express](yay-takeout-tonight.md)
+Select what you want to cook:
+## [Sushi](No-takeout-tonight.md)
+## [Steak with mushed potatoes](yay-takeout-tonight.md)
 ---
 [Start Over](../cooking-food.md)
 or
