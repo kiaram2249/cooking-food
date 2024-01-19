@@ -1,8 +1,8 @@
 # You choosed Eggs with Bacon!
 ## Eggs with Bacon!
 ---
-You died because you chocked on bacon and you remember that you are allgeric to eggs.
+You died because you chocked on bacon and you remember that you are allgeric to eggs. But then your mom found you.
+---
 
-[Start Over](../cooking-food.md)
-or
-[Go back to breakfast](breakfast.md)
+[Should she call 911](should-she-call-011.md)
+[Let her try to help](try-to-let-her-help-you.md)
