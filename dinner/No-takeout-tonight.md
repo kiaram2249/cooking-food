@@ -3,4 +3,4 @@
 ---
 Sike, nobody answered the phone, tuff isn't it? Seems like you have to make dinner or order from somewhere else.
 ---
-[Start Over](../Get-takeout.md)
+[Start Over](../cooking-food.md)
