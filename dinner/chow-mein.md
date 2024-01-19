@@ -3,7 +3,7 @@
 ---
 OH NO! You don't have enough money to buy this order. However, your parents is willing to give you money, IF you clean your room first.
 ---
-Do you want 
+Do you want to 
 ---
 [Start Over](../cooking-food.md)
 or
