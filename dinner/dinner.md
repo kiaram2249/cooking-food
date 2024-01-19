@@ -4,7 +4,7 @@
 ---
 
 Pick on what you want to do
-## [Get takeouts](get-takeout.md)
+## [Get takeouts](Get-takeout.md)
 ## [Make dinner](make-dinner.md)
 ---
 [Start Over](../cooking-food.md)
