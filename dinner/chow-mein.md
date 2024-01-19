@@ -5,9 +5,9 @@ OH NO! You don't have enough money to buy this order. However, your parents is w
 ---
 What will you choose?
 ---
-[Clean room]()
+[Clean room](clean.md)
 ---
-[Don't clean room]()
+[Don't clean room](not-clean.md)
 ---
 [Start Over](../cooking-food.md)
 or
