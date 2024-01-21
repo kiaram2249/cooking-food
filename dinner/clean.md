@@ -2,7 +2,7 @@
 ### You choose to clean your room!
 ---
 
-
+You cleaned your room, now you can have take
 
 ---
 [Start Over](../cooking-food.md)
