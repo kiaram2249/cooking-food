@@ -1,4 +1,4 @@
-## Do you want for your take out?
+## What do you want for your takeout?
 ### You choose Panda Express!
 ---
 
