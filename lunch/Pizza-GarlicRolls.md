@@ -1,5 +1,5 @@
 ## What food do you want to eat for lunch?
-<<<<<<< HEAD
+
 
 ## You choose Pizza And Garlic Rolls
 ---
