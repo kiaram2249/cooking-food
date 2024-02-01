@@ -5,5 +5,6 @@
 Which food would you like to pick?
 ## [Burger and fries](burger-fries.md)
 ## [Pizza and Garlic Rolls](Pizza-GarlicRolls.md)
+## [Spaghetti and Meatballs](spaghetti-meatballs.md)
 ---
 [Start Over](../cooking-food.md)
