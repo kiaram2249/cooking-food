@@ -6,3 +6,5 @@
 You payed for you food but had to give it away to another person. Looks like you have to starve till dinner.
 ---
 [Start Over](../cooking-food.md)
+or
+[Go back to lunch](lunch.md)
